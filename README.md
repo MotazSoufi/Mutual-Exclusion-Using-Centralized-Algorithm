@@ -1,0 +1,1 @@
+This project utilizes the centralized approach to a distributed mutual exclusion system. In the first part, a server is responsible for pass around a shared resource which is a text file for a few clients to access. Then, a backup server is implemented into the system for fault tolerance in the second part.
